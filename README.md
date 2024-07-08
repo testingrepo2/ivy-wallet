@@ -32,7 +32,7 @@ Ivy Wallet may lack some of the features you're looking for, but it truly shines
 
 <a href='https://play.google.com/store/apps/details?id=com.ivy.wallet&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="323" height="125"/></a>
 
-> Join our **[private Telegram Community](https://t.me/+ETavgioAvWg4NThk)**.
+> Join our **[private Telegram Community](https://t.me/+ETavgioAvWg4NThk)**. 
 
 > To support our free open source project, please give it a star. ⭐
 > This means a lot to us. Thank you so much! [![GitHub Repo stars](https://img.shields.io/github/stars/Ivy-Apps/ivy-wallet?style=social)](https://github.com/Ivy-Apps/ivy-wallet/stargazers)
